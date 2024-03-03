@@ -1,5 +1,5 @@
 import java.util.*;
-public class project01 {
+public class Mastermind {
 
 	public static void main(String[] args) {
 		boolean[] number= new boolean[10000];
